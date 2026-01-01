@@ -464,25 +464,7 @@ Average error magnitude in original units (MU)
 
 ---
 
-## Visualization Examples
 
-### Model Comparison Chart
-![Model Comparison](./images/model_comparison.png)
-*Comparative MAPE performance across all nine models*
-
-### LSTM Actual vs Predicted
-![LSTM Performance](./images/lstm_prediction.png)
-*Time series plot showing LSTM predictions vs actual load*
-
-### Residual Analysis
-![Residuals](./images/residual_analysis.png)
-*Error distribution and normality check*
-
-### Seasonal Patterns
-![Seasonality](./images/seasonal_patterns.png)
-*Weekly and monthly load patterns identified by LSTM*
-
----
 
 ## Deployment
 
